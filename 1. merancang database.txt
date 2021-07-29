@@ -1,0 +1,25 @@
+1. Merancang Database (Tabel - tabel yang dibutuhkan serta relasinya)
+- User
+- Barang
+  1. Nama barang
+  2. Harga
+  3. Stok
+  4. Keterangan
+
+- Pesanan (1) -> Mentotal keselurahan harga
+  1. user_id (one to many : user)	: Aldi
+  2. tanggal 				: 21 Mei
+  3. jumlah_harga			: 210.000
+  4. status
+ 
+- Pesanan Detail (Menyimpan barang - barang yang akan dipesan)
+  1. barang_id (one to many : barang)   : Batik Hijau  	| Batik Kuning
+  2. pesanan_id (one to many : pesanan) : 1  		| 1 
+  3. jumlah				: 2		| 1
+  4. jumlah_harga			: 120.000	| 90.000
+
+
+Aldi akan beli batik di Toko Kampoeng Batik Cirebon pada tanggal 21 Mei. 
+Dia memesan batik hijau sebanyak 2, dan batik kuning sebanyak 1.
+  
+  

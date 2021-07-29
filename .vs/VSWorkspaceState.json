@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http",
+    "\\app\\Http\\Controllers",
+    "\\app\\Http\\Controllers\\Auth",
+    "\\database",
+    "\\database\\migrations",
+    "\\resources",
+    "\\resources\\views",
+    "\\resources\\views\\pesan",
+    "\\routes"
+  ],
+  "SelectedNode": "\\app\\Http\\Controllers\\HistoryController.php",
+  "PreviewInSolutionExplorer": false
+}

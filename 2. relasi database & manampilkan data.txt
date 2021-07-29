@@ -1,0 +1,17 @@
+1. Relasi One to many (User - Pesanan)
+
+Model : User
+public function pesanan() 
+{
+     return $this->hasMany('App\Pesanan','user_id', 'id');
+}
+
+Model : Pesanan
+public function user()
+{
+      return $this->belongsTo('App\User','user_id', 'id');
+}
+
+
+2. Link Font Awesome
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
