@@ -29,31 +29,11 @@ Proyek ini dibangun dengan menggunakan Laravel 8. Konsep pada projek ini merupak
 ![umkm_baju (3)](https://user-images.githubusercontent.com/63491056/128607562-2184870d-c068-4c1b-a5cc-efab00584b3a.jpeg)
 ![umkm_baju (1)](https://user-images.githubusercontent.com/63491056/128607563-3e91f1b5-7408-46d5-8b1b-814c3571504c.jpeg)
 
-### Premium Partners
+### Kontak Developer
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+Aldi Irianto
+Email : aldiirianto999@gmail.com
+Whatsapp : +62 899 7531 900 
 
 ## License
 
