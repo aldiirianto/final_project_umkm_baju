@@ -32,8 +32,8 @@ Proyek ini dibangun dengan menggunakan Laravel 8. Konsep pada projek ini merupak
 ### Kontak Developer
 
 Aldi Irianto
-Email : aldiirianto999@gmail.com
-Whatsapp : +62 899 7531 900 
+- Email : aldiirianto999@gmail.com
+- Whatsapp : +62 899 7531 900 
 
 ## License
 
