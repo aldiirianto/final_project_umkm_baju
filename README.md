@@ -11,13 +11,19 @@
 
 Proyek ini dibangun dengan menggunakan Laravel 8. Konsep pada projek ini merupakan toko online dimana user dapat melakukan aktivitas pembelian seperti memilih produk yang ingin dipesan, memasukkan ke dalam keranjang, hingga melakukan checkout dalam situs website.
 
-## Learning Laravel
+## Cara Menggunakan
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+1. Lakukan clone repo (gh repo clone aldiirianto/projek_pbo)
+2. Extract file .zip dan simpan folder yang telah diekstrak ke dalam folder htdocs (Jika menggunakan Xampp)
+3. Buat database baru di dalam phpmyadmin (database bisa di peroleh pada folder dengan nama umkm_baju.sql)
+4. Koneksikan database pada sistem aplikasi dengan yang ada di phpmyadmin
+5. Install composer bantuan untuk mengaktifkan fitur sweet alert dengan cara jalankan perintah berikut : composer require realrashid/sweet-alert
+6. Setelah itu run php artisan serve
+7. Jika saat program dijalankan terdapat error : your app key is missing,
+   jalankan perintah berikut : php artisan key:generate
+8. Selesai.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
+## Screenshoot 
 
 We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
 
