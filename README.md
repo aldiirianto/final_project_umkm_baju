@@ -23,9 +23,11 @@ Proyek ini dibangun dengan menggunakan Laravel 8. Konsep pada projek ini merupak
    jalankan perintah berikut : php artisan key:generate
 8. Selesai.
 
-## Screenshoot 
+## Gambaran Sistem 
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+![umkm_baju (2)](https://user-images.githubusercontent.com/63491056/128607559-4e228661-3a85-425c-96ef-1537bd971cc6.jpeg)
+![umkm_baju (3)](https://user-images.githubusercontent.com/63491056/128607562-2184870d-c068-4c1b-a5cc-efab00584b3a.jpeg)
+![umkm_baju (1)](https://user-images.githubusercontent.com/63491056/128607563-3e91f1b5-7408-46d5-8b1b-814c3571504c.jpeg)
 
 ### Premium Partners
 
